@@ -1,0 +1,5 @@
+# Display a list of all active sockets
+# Show only listening sockets
+# Shows the PID and name of the program to which each socket belongs
+
+netstat -pl
